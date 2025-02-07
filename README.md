@@ -57,7 +57,7 @@
 
 ## 📊 Estadísticas Gaming
 
-```python
+
 from rich.console import Console
 from rich.table import Table
 
@@ -74,7 +74,7 @@ table.add_row("Campeones Principales", "Zed, LeBlanc, Akali")
 table.add_row("Porcentaje de Victoria", "58%")
 
 console.print(table)
-```
+
 
 ---
 
@@ -86,7 +86,6 @@ Aquí puedes encontrarme en mis redes sociales:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 - [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/)
 
-![Snake Animation](https://github.com/Shadow0069/Shadow0069/blob/output/github-contribution-grid-snake.svg)
 
 
 
