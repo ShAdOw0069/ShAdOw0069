@@ -57,24 +57,12 @@
 
 ## 📊 Estadísticas Gaming
 
-```python
-from rich.console import Console
-from rich.table import Table
-
-console = Console()
-
-table = Table(title="Estadísticas de Jugador")
-
-table.add_column("Atributo", justify="left", style="cyan", no_wrap=True)
-table.add_column("Valor", style="magenta")
-
-table.add_row("Rango", "Esmeralda I")
-table.add_row("Rol Principal", "Mid Laner")
-table.add_row("Campeones Principales", "Zed, LeBlanc, Akali")
-table.add_row("Porcentaje de Victoria", "58%")
-
-console.print(table)
-```
+| Atributo              | Valor                      |
+|-----------------------|----------------------------|
+| Rango                | Esmeralda I               |
+| Rol Principal        | Mid Laner                 |
+| Campeones Principales| Zed, Leblank, Syndra      |
+| Porcentaje de Victoria | 58%                      |
 
 ---
 
