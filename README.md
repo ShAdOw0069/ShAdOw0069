@@ -58,18 +58,22 @@
 ## 📊 Estadísticas Gaming
 
 ```python
-class LoLPlayer:
-    def __init__(self):
-        self.rank = "Esmeralda I"
-        self.main_role = "Mid Laner"
-        self.main_champs = ["Zed", "LeBlanc", "Akali"]
-        self.win_rate = "58%"
-        
-    def __repr__(self):
-        return f"Rank: {self.rank}\nRole: {self.main_role}\nMain Champs: {', '.join(self.main_champs)}\nWin Rate: {self.win_rate}"
+from rich.console import Console
+from rich.table import Table
 
-current_status = LoLPlayer()
-print(current_status)
+console = Console()
+
+table = Table(title="Estadísticas de Jugador")
+
+table.add_column("Atributo", justify="left", style="cyan", no_wrap=True)
+table.add_column("Valor", style="magenta")
+
+table.add_row("Rango", "Esmeralda I")
+table.add_row("Rol Principal", "Mid Laner")
+table.add_row("Campeones Principales", "Zed, LeBlanc, Akali")
+table.add_row("Porcentaje de Victoria", "58%")
+
+console.print(table)
 ```
 
 ---
