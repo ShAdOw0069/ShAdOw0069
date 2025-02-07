@@ -17,6 +17,7 @@
 
 ### 👨💻 Programación
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 
@@ -43,7 +44,7 @@
 
 ---
 
-## 🎯 Metas 2024
+## 🎯 Metas 2025
 - Alcanzar Master en League of Legends 🏅
 - Certificarme en AWS Data Analytics 🏆
 - Desplegar 3 proyectos de Data Engineering en producción 🚀
