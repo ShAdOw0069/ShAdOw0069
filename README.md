@@ -1,4 +1,4 @@
-# ¡Hola! 💎 Soy [DRAVEN] - Programador Gamer 🎮 y Aspirante a Data Engineer 📊
+# ¡Hola! 💎 Soy DRAVEN - Programador Gamer 🎮 y Apasionado al Data Engineer 📊
 
 [![League of Legends Banner](https://images5.alphacoders.com/609/609262.jpg)](https://github.com/Shadow0069)
 
