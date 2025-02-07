@@ -1,6 +1,6 @@
-# ¡Hola! 👾 Soy [DRAVEN] - Programador Gamer 🎮 y Aspirante a Data Engineer 📊
+# ¡Hola! 💎 Soy [DRAVEN] - Programador Gamer 🎮 y Aspirante a Data Engineer 📊
 
-[![League of Legends Banner](https://images5.alphacoders.com/609/609262.png)](https://github.com/Shadow0069)
+[![League of Legends Banner](https://images5.alphacoders.com/609/609262.jpg)](https://github.com/Shadow0069)
 
 <div align="center">
   <img src="https://media.giphy.com/media/12TZXEURLhbEFS/giphy.gif" width="200"/>
@@ -14,8 +14,12 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=Selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat&logo=Jira-Software&logoColor=white)
+![Appium](https://img.shields.io/badge/-Appium-9C27B0?style=flat&logo=Appium&logoColor=white)
+![Karate](https://img.shields.io/badge/-Karate-000000?style=flat&logo=Karate&logoColor=white)
+![Serenity](https://img.shields.io/badge/-Serenity-16A085?style=flat&logo=Serenity&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=Android-Studio&logoColor=white)
 
-### 👨💻 Programación
+### 👨‍💻 Programación
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
@@ -58,13 +62,19 @@ class LoLPlayer:
     def __init__(self):
         self.rank = "Esmeralda I"
         self.main_role = "Mid Laner"
-        self.main_champs = ["Zed", "LeBlank", "Akali"]
+        self.main_champs = ["Zed", "LeBlanc", "Akali"]
         self.win_rate = "58%"
         
+    def __repr__(self):
+        return f"Rank: {self.rank}\nRole: {self.main_role}\nMain Champs: {', '.join(self.main_champs)}\nWin Rate: {self.win_rate}"
+
 current_status = LoLPlayer()
 print(current_status)
 ```
-# 🔗 Conectemos
+
+---
+
+## 📞 Conectemos
 
 Aquí puedes encontrarme en mis redes sociales:
 
@@ -72,11 +82,7 @@ Aquí puedes encontrarme en mis redes sociales:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 - [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/)
 
-
-![Snake Animation](https://raw.githubusercontent.com/Platane/snk/master/snk.svg)
-
-
----
+![Snake Animation](https://github.com/Shadow0069/Shadow0069/blob/output/github-contribution-grid-snake.svg)
 
 
 
