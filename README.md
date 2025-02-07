@@ -1,6 +1,6 @@
 # ¡Hola! 💎 Soy DRAVEN - Programador Gamer 🎮 y Apasionado al Data Engineer 📊
 
-[![League of Legends](https://cdn.wallpapersafari.com/92/54/YSh5Ol.jpg)](https://github.com/Shadow0069)
+[![League of Legends]([https://cdn.wallpapersafari.com/92/54/YSh5Ol.jpg](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/02/A-Complete-Guide-To-Dravens-Skills.jpg))](https://github.com/Shadow0069)
 
 <div align="center">
   <p>"League of Legends no solo es un juego, es una estrategia de vida."</p>
