@@ -1,9 +1,9 @@
 # ¡Hola! 💎 Soy DRAVEN - Programador Gamer 🎮 y Apasionado al Data Engineer 📊
 
-[![League of Legends Banner](https://images5.alphacoders.com/609/609262.jpg)](https://github.com/Shadow0069)
+[![Gaming Banner](https://wallpaperaccess.com/full/2222424.jpg)](https://github.com/Shadow0069)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/12TZXEURLhbEFS/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/xUOxeUaLXQX4y8BHPi/giphy.gif" width="200"/>
 </div>
 
 ---
