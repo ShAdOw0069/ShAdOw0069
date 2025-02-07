@@ -57,7 +57,7 @@
 
 ## 📊 Estadísticas Gaming
 
-
+```python
 from rich.console import Console
 from rich.table import Table
 
@@ -74,7 +74,7 @@ table.add_row("Campeones Principales", "Zed, LeBlanc, Akali")
 table.add_row("Porcentaje de Victoria", "58%")
 
 console.print(table)
-
+```
 
 ---
 
